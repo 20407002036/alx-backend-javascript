@@ -1,3 +1,0 @@
-# Arrow functions
-
-THIS
