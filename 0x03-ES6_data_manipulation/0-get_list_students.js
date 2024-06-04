@@ -1,3 +1,9 @@
+/**
+ * Returns a list of students
+ *  @returns {{id: number, firstName: String, location:string}[]} 
+ */
+
+
 export default function getListStudents(){
     const students = [
         { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
